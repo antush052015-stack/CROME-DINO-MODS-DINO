@@ -1,4 +1,8 @@
 # CROME-DINO-MODS-DINO
+
+🌐 [English Version of README available here](README_en.md)
+
+
 это интересный сборник модов для Chrome Dino
 
 на данный момент это репозиторий имеет в себе 8 модов это:
