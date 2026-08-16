@@ -181,6 +181,67 @@ Help in development: DeepSeek AI, AI assistant from Google, antush052015
 
 
 
+# 📦 How to install any mod for Chrome Dino
+📁 What you will need
+Браузер Google Chrome (or any Chromium).
+
+File dino.html from this repository (download or open it).
+
+Code of the required mod (files .txt or .js in the repository).
+
+🚀 Step 1. Open the game
+Download the repository or simply open dino.html (double click).
+
+Or open chrome://dino in Chrome (if you use the standard version).
+Important: old mods (OLD) work better on dino.html, because there is an outdated version of the game.
+
+🛠️ Step 2. Open the developer console
+Press F12 (or Ctrl + Shift + J).
+
+Go to the Console tab.
+
+If you see a warning about inserting a code, click OK.
+
+📋 Step 3. Copy the mod code
+Open the mod file (for example, megahack.txt or megahack.js).
+
+Select all code: Ctrl + A.
+
+Copy: Ctrl + C.
+
+📥 Step 4. Insert and start
+Click on the console field.
+
+Insert code: Ctrl + V.
+
+Press Enter.
+
+Готово! Mod activated. Usually a message about a successful download will appear in the console.
+
+🧩 Features for specific mods
+Mod How to start after inserting the code
+🦖 MEGA HACK Click Tab — откроется меню читов
+DINO MAKER OS
+🌈 COLOR DINO The effect will be applied immediately
+🎮 MULTIPLAYER Press F1 — menu multiplayer
+🎮 DINO MAKER US SPECIAL Requires MEGA HACK (uninstall first). Then press Tab for settings
+🚀 DINO PLAT MOD (OLD) REQUIRES MEGA HACK. Управление стрелочками и белом
+🏗️ DINO EDITOR (OLD) REQUIRES MEGA HACK. Click the mouse on the screen
+🤖 DINO BOT REQUIRES MEGA HACK. Бот начнёт играть сам
+⚠️ Important notes
+Installation order: if the mod requires MEGA HACK, always first install it, and then the desired mod.
+
+Do not run DINO MAKER OS and DINO MAKER OS SPECIAL at the same time — they conflict.
+
+If the mod does not work, reload the page and try again.
+
+All actions run in one tab, don't close the game after insertion.
+
+🎮 Councils
+Keep mod files open in a text editor (Bloknot, Notepad++) to quickly copy.
+
+To take screenshots, use Bandicam, Lightshot, or the built-in Chrome tool.
+
 
 
 # screnshots 📸
