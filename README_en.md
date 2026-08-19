@@ -1,4 +1,4 @@
-# CROME-DINO-MODS-DINO
+# CHROME-DINO-MODS-DINO
 This is an interesting collection of mods for Chrome Dino
 
 At the moment, this repository has 8 mods:
