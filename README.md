@@ -1,4 +1,4 @@
-# CROME-DINO-MODS-DINO
+# CHROME-DINO-MODS-DINO
 
 🌐 [English Version of README available here](README_en.md)
 
